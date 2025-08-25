@@ -3,7 +3,7 @@
 A visually rich and interactive dashboard that transforms raw IPL datasets into meaningful insights—highlighting teams, players, and season performances in a data-driven way.  
 
 ---
-
+<br>
 ## ⚡ Key Highlights
 
 - 🏆 **Champions & Runner-up** – season-wise winners at a glance  
