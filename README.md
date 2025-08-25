@@ -5,8 +5,8 @@ This project transforms raw IPL datasets into meaningful insights—highlighting
 
 ---
 
-## 🔍 What You’ll Discover  
-⚡ Key takeaways from the dashboard:  
+## ⚡ Key Highlights
+ 
 - 🏆 **Champions & Runner-up Overview** – season-wise winners at a glance  
 - 📊 **Big Numbers** – sixes, fours, matches played, venues, and centuries  
 - 🟠 **Orange Cap** & 🟣 **Purple Cap** journey across seasons  
@@ -25,7 +25,7 @@ This project transforms raw IPL datasets into meaningful insights—highlighting
 ![Dashboard Screenshot]()  
 
 
-## 🚀 Future Enhancements  
-- 🏟️ Venue-specific performance comparison  
-- 📌 Player vs Player head-to-head stats  
-- 📈 Predictive trends for upcoming seasons  
+## ⚡ Future Enhancements  
+-  Venue-specific performance comparison  
+-  Player vs Player head-to-head stats  
+-  Predictive trends for upcoming seasons  
