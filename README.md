@@ -5,7 +5,7 @@ A visually rich and interactive dashboard that transforms raw IPL datasets into 
 ---
 
 ## ⚡ Key Highlights
---------------------
+---------
 
 - 🏆 **Champions & Runner-up** – season-wise winners at a glance  
 - 📊 **Big Numbers** – sixes, fours, matches, venues & centuries  
