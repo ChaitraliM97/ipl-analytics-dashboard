@@ -22,7 +22,7 @@ This project transforms raw IPL datasets into meaningful insights—highlighting
 
 
 ## 🌟 Dashboard Sneak Peek  
-![Dashboard Screenshot]()  
+![Dashboard Screenshot](https://github.com/ChaitraliM97/ipl-analytics-dashboard/blob/main/IPL_Dashboard.png)  
 
 
 ## ⚡ Future Enhancements  
