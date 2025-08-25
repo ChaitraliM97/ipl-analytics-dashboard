@@ -29,10 +29,9 @@ A visually rich and interactive dashboard that transforms raw IPL datasets into 
 
 ![Dashboard Screenshot](https://github.com/ChaitraliM97/ipl-analytics-dashboard/blob/main/IPL_Dashboard.png)  
 
----
+<br>
 
 ## 🚀 Future Enhancements
--------------------------
 
 - Venue-specific performance analysis  
 - Player vs Player head-to-head stats  
