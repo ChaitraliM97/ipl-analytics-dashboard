@@ -4,6 +4,7 @@ A visually rich and interactive dashboard that transforms raw IPL datasets into 
 
 ---
 <br>
+
 ## ⚡ Key Highlights
 
 - 🏆 **Champions & Runner-up** – season-wise winners at a glance  
@@ -12,7 +13,7 @@ A visually rich and interactive dashboard that transforms raw IPL datasets into 
 - 🥇 **Top Performers** – most runs, wickets & boundaries  
 - 📋 **Team Standings** – dynamic points table & comparisons  
 
-
+<br>
 
 ## 🛠️ Tech Behind the Scenes
 
@@ -21,7 +22,7 @@ A visually rich and interactive dashboard that transforms raw IPL datasets into 
 - **Processing:** Power Query for data cleaning & shaping  
 - **Features:** Advanced DAX measures, custom visuals, slicers & filters  
 
-
+<br>
 
 ## 🌟 Dashboard Sneak Peek
 --------------------------
