@@ -5,7 +5,7 @@ A **visually rich and data-driven** Power BI dashboard that transforms raw IPL d
 ---
 
 ## ✨ Key Highlights  
-___
+_
 - 🏆 **Champions & Runner-up Overview** – season-wise winners at a glance  
 - 📊 **Big Numbers** – sixes, fours, matches played, venues, and centuries  
 - 🟠 **Orange Cap** & 🟣 **Purple Cap** – journey across seasons  
@@ -15,7 +15,7 @@ ___
 ---
 
 ## ⚙️ Tech Stack & Tools  
-___
+_
 - **Tool Used:** Power BI  
 - **Data Source:** Kaggle IPL historical dataset  
 - **Data Cleaning:** Power Query  
@@ -24,16 +24,14 @@ ___
 ---
 
 ## 🌟 Dashboard Sneak Peek  
-___
+_
 ![Dashboard Screenshot](https://github.com/ChaitraliM97/ipl-analytics-dashboard/blob/main/IPL_Dashboard.png)  
 
 ---
 
 ## 🚀 Future Enhancements  
-___
+_
 - 🏟️ Venue-specific performance comparison  
 - 🔄 Player vs Player head-to-head stats  
 - 📈 Predictive trends for upcoming seasons  
 
----
-💡 *This dashboard is designed to provide IPL fans, analysts, and cricket enthusiasts with a **one-stop analytics hub** to explore the game beyond scores!*  
