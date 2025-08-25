@@ -1,10 +1,10 @@
-# Ipl-Analytics-Dashboard
+## Ipl-Analytics-Dashboard
 
 A visually rich and data-driven IPL Analytics Dashboard.  
 This project transforms raw IPL datasets into meaningful insights—highlighting players, teams, and season performances in a dynamic and interactive way.  
 <br>
 
-** ⚡ Key Highlights **
+ ⚡ **Key Highlights **
  --------------------------
 - 🏆 **Champions & Runner-up Overview** – season-wise winners at a glance  
 - 📊 **Big Numbers** – sixes, fours, matches played, venues, and centuries  
