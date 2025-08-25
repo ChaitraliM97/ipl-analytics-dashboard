@@ -2,8 +2,8 @@
 
 A visually rich and data-driven IPL Analytics Dashboard.  
 This project transforms raw IPL datasets into meaningful insights—highlighting players, teams, and season performances in a dynamic and interactive way.  
-
 ---
+<br>
 
 ## ⚡ Key Highlights
  
@@ -13,12 +13,12 @@ This project transforms raw IPL datasets into meaningful insights—highlighting
 - 🥇 **Top Performers** – most runs, wickets, boundaries, and more  
 - 📋 **Team Standings** – points table with performance comparison  
 
+---
 
 ## 🛠️ Tech Behind the Scenes  
 - **Tool Used:** Power BI  
 - **Dataset:** IPL historical data  
 - **Features:** Advanced DAX measures, custom visuals, slicers & filters
-
 
 
 ## 🌟 Dashboard Sneak Peek  
