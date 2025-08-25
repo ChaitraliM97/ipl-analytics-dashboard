@@ -1,8 +1,7 @@
 ## 🏏IPL Analytics Dashboard
 ---
 
-A visually rich and interactive dashboard that transforms raw IPL datasets into meaningful insights—highlighting teams, players, and season performances in a data-driven way.  
-By leveraging **Power BI, Power Query, and advanced DAX measures**, the dashboard ensures that even raw, unstructured data is refined into clear, compelling, and actionable visuals.  
+A visually rich and interactive dashboard that transforms raw IPL datasets into meaningful insights—highlighting teams, players, and season performances in a data-driven way. By leveraging **Power BI, Power Query, and advanced DAX measures**, the dashboard ensures that even raw, unstructured data is refined into clear, compelling, and actionable visuals.  
 
 
 <br>
