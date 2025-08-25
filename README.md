@@ -1,8 +1,9 @@
 # ipl-analytics-dashboard
+---------------------------------
 
 A visually rich and data-driven IPL Analytics Dashboard.  
 This project transforms raw IPL datasets into meaningful insights—highlighting players, teams, and season performances in a dynamic and interactive way.  
----
+
 <br>
 
 ## ⚡ Key Highlights
